@@ -5,7 +5,7 @@ load_dotenv()
 
 class Config:
     # Bot Token
-    BOT_TOKEN = os.environ.get('BOT_TOKEN', "8721462024:AAENleXPiWyrSB5C_23CzZOxzSkwTBFF8Hc")
+    BOT_TOKEN = os.environ.get('BOT_TOKEN', "8864699083:AAHWOUUYKuUr9u7doilX3oaOMO3M-hbuuac")
     
     # Admin IDs - Owner ko add kiya
     ADMIN_IDS = [8603893462]  # ✅ Owner ID set
